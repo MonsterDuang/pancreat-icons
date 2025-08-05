@@ -1,0 +1,100 @@
+{
+  "id": "4990671",
+  "name": "全景食安主机后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "45131506",
+      "name": "水平居中对齐",
+      "font_class": "shuipingjuzhongduiqi",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "45131542",
+      "name": "顶部对齐",
+      "font_class": "dingbuduiqi",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "45131540",
+      "name": "垂直居中对齐",
+      "font_class": "chuizhijuzhongduiqi",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "45131539",
+      "name": "底部对齐",
+      "font_class": "dibuduiqi",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "45131538",
+      "name": "水平分布",
+      "font_class": "shuipingfenbu",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "45131532",
+      "name": "左对齐",
+      "font_class": "zuoduiqi",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "45131210",
+      "name": "垂直分布",
+      "font_class": "chuizhifenbu",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "45131501",
+      "name": "右对齐",
+      "font_class": "youduiqi",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "45131117",
+      "name": "恢复",
+      "font_class": "huifu",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "45131116",
+      "name": "撤销",
+      "font_class": "chexiao",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "45131095",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "45131094",
+      "name": "文字",
+      "font_class": "wenzi",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "45131096",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    }
+  ]
+}
