@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.042" height="16.008" viewBox="0 0 16.042 16.008">
+  <g id="pano-erweima" transform="translate(-110 -264)">
+    <rect id="矩形_494" data-name="矩形 494" width="16" height="16" transform="translate(110 264)" fill="none"/>
+    <g id="组_679" data-name="组 679" transform="translate(76.5 0.5)">
+      <g id="组_680" data-name="组 680" transform="translate(33.5 263.5)">
+        <path id="矩形_480" data-name="矩形 480" d="M1,1V6H6V1H1M1,0H6A1,1,0,0,1,7,1V6A1,1,0,0,1,6,7H1A1,1,0,0,1,0,6V1A1,1,0,0,1,1,0Z" fill="#202020"/>
+        <rect id="矩形_481" data-name="矩形 481" width="3" height="3" transform="translate(2 2)" fill="#202020"/>
+      </g>
+      <g id="组_682" data-name="组 682" transform="translate(33.5 272.5)">
+        <path id="矩形_480-2" data-name="矩形 480" d="M1,1V6H6V1H1M1,0H6A1,1,0,0,1,7,1V6A1,1,0,0,1,6,7H1A1,1,0,0,1,0,6V1A1,1,0,0,1,1,0Z" fill="#202020"/>
+        <rect id="矩形_481-2" data-name="矩形 481" width="3" height="3" transform="translate(2 2)" fill="#202020"/>
+      </g>
+      <g id="组_681" data-name="组 681" transform="translate(42.5 263.5)">
+        <path id="矩形_480-3" data-name="矩形 480" d="M1,1V6H6V1H1M1,0H6A1,1,0,0,1,7,1V6A1,1,0,0,1,6,7H1A1,1,0,0,1,0,6V1A1,1,0,0,1,1,0Z" fill="#202020"/>
+        <rect id="矩形_481-3" data-name="矩形 481" width="3" height="3" transform="translate(2 2)" fill="#202020"/>
+      </g>
+      <path id="直线_61" data-name="直线 61" d="M0,6.508a.5.5,0,0,1-.5-.5V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V6.008A.5.5,0,0,1,0,6.508Z" transform="translate(42.958 273)" fill="#202020"/>
+      <path id="直线_64" data-name="直线 64" d="M0,6.508a.5.5,0,0,1-.5-.5V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V6.008A.5.5,0,0,1,0,6.508Z" transform="translate(49.042 273)" fill="#202020"/>
+      <path id="直线_62" data-name="直线 62" d="M0,1.63a.5.5,0,0,1-.5-.5V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V1.13A.5.5,0,0,1,0,1.63Z" transform="translate(45.971 277.852)" fill="#202020"/>
+      <path id="直线_63" data-name="直线 63" d="M0,1.63a.5.5,0,0,1-.5-.5V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V1.13A.5.5,0,0,1,0,1.63Z" transform="translate(45.971 273)" fill="#202020"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="pano-wenzi" transform="translate(-32.5 -262)">
+    <rect id="矩形_493" data-name="矩形 493" width="16" height="16" transform="translate(32.5 262)" fill="none"/>
+    <g id="组_735" data-name="组 735">
+      <path id="直线_57" data-name="直线 57" d="M12,.5H0A.5.5,0,0,1-.5,0,.5.5,0,0,1,0-.5H12a.5.5,0,0,1,.5.5A.5.5,0,0,1,12,.5Z" transform="translate(34.5 263.5)" fill="#202020"/>
+      <path id="直线_58" data-name="直线 58" d="M0,14a.5.5,0,0,1-.5-.5V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V13.5A.5.5,0,0,1,0,14Z" transform="translate(40.5 263.5)" fill="#202020"/>
+    </g>
+  </g>
+</svg>
